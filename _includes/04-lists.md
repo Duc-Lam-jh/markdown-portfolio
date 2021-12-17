@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+- Name is Lam Xuong Duc
+- Age is 21
